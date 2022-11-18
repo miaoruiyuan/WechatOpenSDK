@@ -1,0 +1,16 @@
+PODS:
+  - WechatOpenSDK (0.1.0)
+
+DEPENDENCIES:
+  - WechatOpenSDK (from `../`)
+
+EXTERNAL SOURCES:
+  WechatOpenSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WechatOpenSDK: 49ca4af022f8904f4c0e80ad2ff6db6195f5e457
+
+PODFILE CHECKSUM: 0908875c140dfd31ba83356dce06c909a791546e
+
+COCOAPODS: 1.11.3
